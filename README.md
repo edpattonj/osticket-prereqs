@@ -62,6 +62,10 @@ Installation screens of PHP and MySQL showing a successful setup.
 
 File Explorer view of osTicket files in the web root directory.
 
+![Image](https://github.com/user-attachments/assets/8eeecac9-3749-4c1e-b2c3-854e36fa2f6a)
+
+Assigned Permissions of access to the osticket system through security setup.
+
 
 
 
