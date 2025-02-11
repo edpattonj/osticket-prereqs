@@ -66,6 +66,9 @@ File Explorer view of osTicket files in the web root directory.
 
 Assigned Permissions of access to the osticket system through security setup.
 
+![Image](https://github.com/user-attachments/assets/3dc0bb8c-1b1c-4b2f-aee4-f8e8a5df3efb)
+
+Access to Initial osTicket setup page in browser is successful.
 
 
 
