@@ -52,4 +52,12 @@ Successfully accessed Remote desktop Protocol(RDP) connection to 'osticket-vm'
 ![Image](https://github.com/user-attachments/assets/b97c80bf-d902-445f-8bc4-03dca917bad3)
 
 Successfully Installed/Enabled IIS in Windows with CGI enabled as well.
-<br />
+
+![Image](https://github.com/user-attachments/assets/fb203224-d13f-4995-8de9-059a634d922e)<br />
+![Image](https://github.com/user-attachments/assets/35e3b7a3-e709-40ee-9434-b8e899b15957)
+
+Installation screens of PHP and MySQL showing a successful setup.
+
+
+
+
