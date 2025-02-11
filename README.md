@@ -36,11 +36,10 @@ Configuration settings for my creation of the Azure virtual machine named 'ostic
 </p>
 <br />
 
+![Image](https://github.com/user-attachments/assets/91658bd3-79f7-47b8-bb10-a6d769c98575)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Confirmation of successful deployment of 'osticket-vm' on Azure.
 </p>
 <br />
 
