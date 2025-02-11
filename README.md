@@ -74,6 +74,12 @@ Access to Initial osTicket setup page in browser is successful.
 
 Final confirmation page of osTicket installation, confirms successful deployment and readiness for use.
 
+![Image](https://github.com/user-attachments/assets/60e7eeb6-8e39-4e48-b982-41eb993a62bc)
+
+Logged-in view of the osTicket admin panel, displaying that the application is fully functional
+and accessible for administrative tasks.
+
+
 
 
 
