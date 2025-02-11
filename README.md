@@ -48,5 +48,8 @@ Confirmation of successful deployment of 'osticket-vm' on Azure.
 Successfully accessed Remote desktop Protocol(RDP) connection to 'osticket-vm'
 </p>
 
+![Image](https://github.com/user-attachments/assets/6bc14750-7ec2-40f7-a0c6-4c6c553eed09)
+![Image](https://github.com/user-attachments/assets/b97c80bf-d902-445f-8bc4-03dca917bad3)
 
+Successfully Installed/Enabled IIS in Windows with CGI enabled as well.
 <br />
