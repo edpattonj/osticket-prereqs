@@ -70,5 +70,10 @@ Assigned Permissions of access to the osticket system through security setup.
 
 Access to Initial osTicket setup page in browser is successful.
 
+![Image](https://github.com/user-attachments/assets/4a7bd832-70c3-45cc-a982-b4b3da1e9656)
+
+Final confirmation page of osTicket installation, confirms successful deployment and readiness for use.
+
+
 
 
