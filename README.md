@@ -58,6 +58,10 @@ Successfully Installed/Enabled IIS in Windows with CGI enabled as well.
 
 Installation screens of PHP and MySQL showing a successful setup.
 
+![Image](https://github.com/user-attachments/assets/8dad6df5-fbd2-4516-a8d1-ceb9710c81a0)
+
+File Explorer view of osTicket files in the web root directory.
+
 
 
 
